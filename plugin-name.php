@@ -4,7 +4,7 @@
  * Plugin URI:  
  * Description: Boilerplate for creating your own form processors for Caldera Forms
  * Version:     1.0.0
- * Author:      David Cramer
+ * Author:      Your Name
  * Author URI:  
  * License:     GPL-2.0+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
@@ -225,6 +225,7 @@ class Plugin_Name {
 
 }
 
+// Create the instance. (can be done however you like)
 new Plugin_Name();
 
 
